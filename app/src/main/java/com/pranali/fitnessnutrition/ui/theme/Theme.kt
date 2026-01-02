@@ -1,6 +1,5 @@
-package com.study.fitness_nutrition_platform.ui.theme
+package com.pranali.fitnessnutrition.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

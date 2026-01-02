@@ -1,4 +1,4 @@
-package com.study.fitness_nutrition_platform
+package com.pranali.fitnessnutrition
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

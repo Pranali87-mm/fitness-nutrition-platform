@@ -1,4 +1,4 @@
-package com.study.fitness_nutrition_platform.ui.theme
+package com.pranali.fitnessnutrition.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

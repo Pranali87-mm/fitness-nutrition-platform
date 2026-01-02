@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.study.fitness_nutrition_platform"
+    namespace = "com.pranali.fitnessnutrition"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.study.fitness_nutrition_platform"
+        applicationId = "com.pranali.fitnessnutrition"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

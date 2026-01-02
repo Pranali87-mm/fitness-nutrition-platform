@@ -1,4 +1,4 @@
-package com.study.fitness_nutrition_platform
+package com.pranali.fitnessnutrition
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.study.fitness_nutrition_platform.ui.theme.FitnessnutritionplatformTheme
+import com.pranali.fitnessnutrition.ui.theme.FitnessnutritionplatformTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
